@@ -31,6 +31,12 @@ Using the [mockup](./mockup) provided, create a React application that allows a 
 
 ---
 
+## Demo
+
+https://generalassembly-atx.github.io/ga-cards-react/demo
+
+---
+
 ## Challenges
 
 * Deploy your React application to either [Firebase](https://firebase.google.com/docs/hosting/deploying) or [GitHub Pages](https://pages.github.com/)
