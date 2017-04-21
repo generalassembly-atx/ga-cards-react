@@ -20,7 +20,7 @@ Using the [mockup](./mockup) provided, create a React application that allows a 
 * Use React Router to manage state 
 * Use `dotenv` to store configuration values
 * Separate the single CSS file into individual component CSS files 
-* All cards should initially be face down when loaded
+* All cards should initially be face down when loaded and revealed when clicked
 * Users should be able to see a preview of the card to be added before saving
 
 ---
